@@ -1,4 +1,4 @@
-# django-whois-api
+# django whois api
 
 >##Note
 - Currently supported only on Linux systems with ```whois``` package supported
